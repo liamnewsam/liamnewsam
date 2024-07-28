@@ -1,10 +1,11 @@
-# Hi 
+# Welcome to My GitHub Profile!
 
-I am new to GitHub, but I hope to learn how to contribute to this community.  
-First thing I want to do, is understand how pull-reqeusting works.  
+## About Me
+Hi there! I'm 2nd Year at UC Berkeley studying Electrical Engineering & Computer Science. I'm currently focused on learning machine learning. 
 
-## **About me**
-I am an amateur programmer. I taught myself **python** and have used it as my main language.  
-My biggest project was a Chess simulator, which I have a repository of.  
+- **Name**: Liam Newsam
+- **Email**: liamcnewsam@gmail.com
+- **LinkedIn**: [[Your LinkedIn Profile]](https://www.linkedin.com/in/liam-newsam/)
 
-And..... I am tired of learning markdown.   
+## Contact Me
+I'm always open to collaboration, new projects, and opportunities. Feel free to reach out to me via email.
