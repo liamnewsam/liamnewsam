@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-![Logo](https://github.com/liamnewsam/liamnewsam/liam_in_rain.jpg)
+![Logo](https://github.com/liamnewsam/liamnewsam/blob/main/liam_in_rain.jpg)
 
 
 ## About Me
