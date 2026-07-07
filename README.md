@@ -1,10 +1,7 @@
 # Welcome to My GitHub Profile!
 
-![Logo](https://github.com/liamnewsam/liamnewsam/blob/main/liam_in_rain.jpg)
-
-
 ## About Me
-Hi there! I'm 2nd Year at UC Berkeley studying Electrical Engineering & Computer Science. I'm currently focused on learning machine learning. 
+Hi there! I'm a 4nd Year at UC Berkeley studying Electrical Engineering & Computer Science.
 
 - **Name**: Liam Newsam
 - **Email**: liamcnewsam@gmail.com
