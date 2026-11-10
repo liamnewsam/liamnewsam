@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile!
 
 ## About Me
-Hi there! I'm a 4nd Year at UC Berkeley studying Electrical Engineering & Computer Science.
+Hi there! I'm a 4th Year at UC Berkeley studying Electrical Engineering & Computer Science.
 
 - **Name**: Liam Newsam
 - **Email**: liamcnewsam@gmail.com
